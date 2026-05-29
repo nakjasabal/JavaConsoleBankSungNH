@@ -6,6 +6,7 @@ public class HelloWorld {
 	//3추가작업
 	//4학원에서 pull없이 작업함
 	//5github clone 작업 성공
+	//6커밋/푸시/클론 성공
 	public static void main(String[] args) {		
 		System.out.print("깃헙");
 
